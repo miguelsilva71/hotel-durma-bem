@@ -1,10 +1,12 @@
 # 🏨 Hotel Durma Bem — Sistema de Reservas
-👥 Grupo
+## 👥 Grupo
 
-Igor Rodrigues de Santana — RM570651
-Diego Gomes Gonçalves de Lima — RM570335
-Miguel Silva — RM572019
-Rafael Santos Mendonça Costa — RM572368
+| Nome | RM |
+|---|---|
+| Igor Rodrigues de Santana | RM570651 |
+| Diego Gomes Gonçalves de Lima | RM570335 |
+| Miguel Silva | RM572019 |
+| Rafael Santos Mendonça Costa | RM572368 |
 
 > Sistema de controle de reserva de quartos com persistência em **Oracle**.
 > Projeto da disciplina de Java — FIAP.
