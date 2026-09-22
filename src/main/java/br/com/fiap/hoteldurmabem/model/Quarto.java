@@ -66,7 +66,7 @@ public class Quarto {
     @Override
     public String toString() {
         return String.format("Quarto{id=%s, numero='%s', tipo=%s, diaria=R$ %s, ativo=%s}",
-                id, numero, tipo, precoDiaria, ativo ? "S" : "N");
+                id, numero, tipo, precoDiaria, ativo ? "Sim" : "Não");
     }
 
     @Override

@@ -8,10 +8,7 @@ import java.time.LocalDate;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-/**
- * Testes da regra de checkout (sem banco): valor = diarias x diaria.
- * Rode no IntelliJ (botao play) ou com: mvn test
- */
+
 class CheckoutServiceTest {
 
     @Test
